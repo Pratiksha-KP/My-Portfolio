@@ -1,5 +1,4 @@
 import { Code, Heart, Lightbulb, Rocket, Coffee, BookOpen, Download, Server, Database } from "lucide-react";
-import resumePDF from "../assets/PRATIKSHA.pdf";
 export const AboutSection = () => {
   return (
     <section id="about" className="py-24 px-4 relative">
@@ -44,7 +43,7 @@ export const AboutSection = () => {
             <div className="flex flex-col sm:flex-row gap-4 pt-6">
 
 <a 
-  href={resumePDF} 
+  href="/PRATIKSHA.pdf"
   download="Pratiksha_KP_Resume.pdf"
   className="cosmic-button flex items-center gap-2"
 >
