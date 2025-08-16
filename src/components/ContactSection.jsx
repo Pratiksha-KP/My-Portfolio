@@ -43,7 +43,7 @@ import {
   
             {/* LinkedIn Card */}
             <a
-              href="https://www.linkedin.com/in/pratiksha-kp/"
+              href="https://www.linkedin.com/in/pratiksha-k-p-b70a52308/"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-card border border-border/50 rounded-xl p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:border-transparent hover:bg-gradient-to-r hover:from-primary/20 hover:to-purple-500/20"
@@ -63,7 +63,7 @@ import {
   
             {/* Instagram Card */}
             <a
-              href="https://www.instagram.com/yourusername/"
+              href="https://www.instagram.com/pratiksha.kp.005/"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-card border border-border/50 rounded-xl p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:border-transparent hover:bg-gradient-to-r hover:from-primary/20 hover:to-purple-500/20"
