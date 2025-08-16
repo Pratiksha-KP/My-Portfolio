@@ -15,7 +15,7 @@ A modern, responsive portfolio website showcasing my journey as an aspiring deve
 - Styling: Tailwind CSS
 - Icons: Lucide React
 - Build Tool: Vite
-- Deployment: [Add your deployment platform]
+- Deployment: Vercel
 
 ## 📱 Sections
 
